@@ -1,5 +1,5 @@
 <template>
-  <Header title="智汇资源库图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="智汇资源库（zhzyk.vip）图床" desc="拒绝流量劫持，全面使用HTTPS" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
